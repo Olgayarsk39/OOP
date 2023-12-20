@@ -5,4 +5,4 @@
 
 ## Решение
 [Основное меню](src/main/java/Work_1/Main.java)
-[](src/main/java/Work_1)
+[Work1](src/main/java/Work_1)
